@@ -20,5 +20,5 @@ I enjoy ensuring high-quality software by writing clear test cases, identifying 
 
 ### 🔹 Training & Personal Projects
 **Description:** Completed exercises and small projects from training platforms to improve QA skills.  
-**Platform 1 :** This project automates the signup process on the AutomationExercise website using Selenium
-**Link 1:** https://github.com/EsraaShurafat/automationexercise
+**Platform:** This project automates the signup process on the AutomationExercise website using Selenium<br>
+**Link:**(https://github.com/EsraaShurafat/automationexercise)
